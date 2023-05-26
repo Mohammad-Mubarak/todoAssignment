@@ -1,0 +1,19 @@
+.containersOflist {
+	width: 100vw;
+
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.taskListTwo {
+	height: auto;
+	background-color: yellow;
+}
+
+.taskListOne {
+	height: auto;
+	background-color: rgb(33, 217, 42);
+}
+h2 {
+	text-align: center;
+}
